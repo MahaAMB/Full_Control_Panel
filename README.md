@@ -1,5 +1,5 @@
 # Full_Control_Panel
-Task 2: An interface for both the robot's arm and base control panel. (All of the codes for this task are in the Full_Control_Panel folder)
+Task 2: An interface for both the robot's arm and base control panel. (All of the codes for this task are in the Full_Control_Panel & Full_Control_Panel_MobileWbPage folders)
 
 A control panel interface is designed to control the engines for the direction of the robot's base, as well as to control the degree of the robot's arm using CSS, HTML, JavaScript and PHP, as well as a database to store and fetch the data into/from using SQL.
 
